@@ -1,0 +1,6 @@
+Rober Pseudo code
+
+ESP32
+-get gps data
+-get calibrated compass data
+-get dead recko
